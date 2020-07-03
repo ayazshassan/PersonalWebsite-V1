@@ -17,6 +17,9 @@
  margin-bottom: 0;
  padding: 50px 0 20px ;
  }
+.profile{
+    min-width: 400px;
+  }
 
  body{
  margin: 0px;
