@@ -121,7 +121,7 @@ width:30%;
   }
   .contact-me-msg
   {
-    width: 40%;
+    width: 80%;
     margin: 40px auto 60px auto;
   }
 
@@ -182,3 +182,8 @@ content: "\25BA \0020";
     margin-left: 0;
 }
   
+.contact-me{
+    min-width: 400px;
+    max-width: 900px;
+    margin: auto;
+}
