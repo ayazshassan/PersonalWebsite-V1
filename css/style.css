@@ -6,6 +6,11 @@
       
  }
 
+.skills{
+min-width: 400px;
+    max-width: 900px;
+    margin: auto;
+}
  .middle-container{
  margin: 100px 0 100px 0;
      
